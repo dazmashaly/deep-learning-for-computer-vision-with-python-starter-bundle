@@ -1,9 +1,10 @@
-Adrian Rosebrock - Deep Learning for Computer Vision with Python Starter Bundle(2017, PyImageSearch)
+# Adrian Rosebrock - Deep Learning for Computer Vision with Python Starter Bundle(2017, PyImageSearch)
 **pdf version attached**
 https://www.mediafire.com/file/8j696bs0f3rpamg/Adrian+Rosebrock+-+Deep+Learning+for+Computer+Vision+with+Python+Starter+Bundle(2017,+PyImageSearch).pdf/file
 
 
 #---------- 
+
  chapter 5:-
  this chapter introduces the datasets that we will be using throwout the book 
 
@@ -18,9 +19,11 @@ https://www.mediafire.com/file/8j696bs0f3rpamg/Adrian+Rosebrock+-+Deep+Learning+
 
 
 #---------- 
+
  chapter 7:-
  in this chapter we start building the pyimagesearch library which we will be using alot throw 
  all 3 books so i advice adding it to the python packages path.
+
 #----------
 
 
