@@ -5,11 +5,6 @@ https://www.mediafire.com/file/8j696bs0f3rpamg/Adrian+Rosebrock+-+Deep+Learning+
 
 #---------- 
 
- chapter 5:-
- this chapter introduces the datasets that we will be using throwout the book 
-
-#---------- 
-
  chapter 6:-
  this chapter is ment to help configer your enviorment 
  this book comes with a virtual enviorment that's already conficerd and ready
@@ -22,7 +17,7 @@ https://www.mediafire.com/file/8j696bs0f3rpamg/Adrian+Rosebrock+-+Deep+Learning+
 
  chapter 7:-
  in this chapter we start building the pyimagesearch library which we will be using alot throw 
- all 3 books so i advice adding it to the python packages path.
+ all 3 books so i advise adding it to the python packages path.
 
 #----------
 
